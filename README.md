@@ -1,6 +1,6 @@
 # context_app
 
-A new Flutter project.
+Projeto baseado com Jogo https://contexto.me/
 
 ## Getting Started
 
